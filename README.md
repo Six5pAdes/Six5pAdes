@@ -41,7 +41,12 @@ https://downloads.khinsider.com/playlist/14442wyig<br/>
 https://open.spotify.com/playlist/1YJe9dmtfOWC2lKbIdJUWm?si=61cdb24001644476<br/>
 https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=dd0ce092b7994283
 
-## My interests outside of coding:
+## My interests, hobbies, and activities outside of coding:
+ - Music: CCM, East Asian pop (Cantonese, Mandarin, Japanese, Korean), alternative rock, pop punk/emo, classical, jazz, lo-fi, soundtracks, some [hip-hop, RnB]
+ - Anime: Naruto, Kimi no Na Wa, Horimiya, Nichijou, Ouran
+ - Videogames: Sonic, Fire Emblem, other Nintendo or Sega properties
+ - Resting at home
+ - Hanging out with family or friends
 
 <!--
 **Six5pAdes/Six5pAdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
