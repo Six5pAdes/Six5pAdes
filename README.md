@@ -1,4 +1,44 @@
-### Hi there 👋
+## 👋🏼 Hi there 👋🏼
+
+My name is Austin. I am a full-stack developer currently based in California. <br/>
+With a background in music worth fifteen years; an undergraduate degree in audio engineering earned in four and a half years; and a year and seven months of work experience as a barista, I understand the importance of achieving perfection as much as possible and paying attention to detail. <br/>
+With all these agencies at my bestowal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
+
+<div id="stats">
+  <h3>Stats</h3>
+  <img src="https://streak-stats.demolab.com?user=Six5pAdes&layout=compact&theme=transparent&fire=EB5454" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six5pAdes&layout=compact&theme=transparent" alt="Top Languages"/>
+</div>
+
+### I know how to work with:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-line.svg" title="NodeMon" alt="NodeMon" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="PyTest" alt="PyTest" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+<div>
+
+### My favorite musical companion playlists while coding:
+https://downloads.khinsider.com/playlist/14442wyig<br/>
+https://open.spotify.com/playlist/1YJe9dmtfOWC2lKbIdJUWm?si=61cdb24001644476<br/>
+https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=dd0ce092b7994283
 
 <!--
 **Six5pAdes/Six5pAdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
