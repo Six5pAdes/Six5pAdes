@@ -1,16 +1,17 @@
-## 👋🏼 Hi there 👋🏼
+# 👋🏼 Hi there 👋🏼
 
 My name is Austin. I am a full-stack developer currently based in California. <br/>
 With a background in music worth fifteen years; an undergraduate degree in audio engineering earned in four and a half years; and a year and seven months of work experience as a barista, I understand the importance of achieving perfection as much as possible and paying attention to detail. <br/>
 With all these agencies at my bestowal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
 
 <div id="stats">
-  <h3>Stats</h3>
+  <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=Six5pAdes&layout=compact&theme=transparent&fire=EB5454" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six5pAdes&layout=compact&theme=transparent" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six5pAdes&layout=compact&theme=transparent" alt="Top Languages"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Six5pAdes&layout=compact&theme=transparent" alt="Personal Stats"/>
 </div>
 
-### I know how to work with:
+## I know how to work with:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
@@ -35,10 +36,12 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
 <div>
 
-### My favorite musical companion playlists while coding:
+## My favorite musical companion playlists while coding:
 https://downloads.khinsider.com/playlist/14442wyig<br/>
 https://open.spotify.com/playlist/1YJe9dmtfOWC2lKbIdJUWm?si=61cdb24001644476<br/>
 https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=dd0ce092b7994283
+
+## My interests outside of coding:
 
 <!--
 **Six5pAdes/Six5pAdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
