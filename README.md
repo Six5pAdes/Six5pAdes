@@ -35,12 +35,26 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
 <div>
 
-## My favorite musical companion playlists while coding:
-https://downloads.khinsider.com/playlist/14442wyig<br/>
-https://open.spotify.com/playlist/1YJe9dmtfOWC2lKbIdJUWm?si=61cdb24001644476<br/>
-https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=dd0ce092b7994283
+## Contact Me
+<div>
+  <a href="mailto:austinhall6smusic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/austinhall-6spades/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://six5pades.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+  </a>
+</div>
 
-## My interests, hobbies, and activities outside of coding:
+## Extra About-Mes
+### My favorite musical companion playlists while coding:
+* https://downloads.khinsider.com/playlist/14442wyig<br/>
+* https://open.spotify.com/playlist/1YJe9dmtfOWC2lKbIdJUWm?si=61cdb24001644476<br/>
+* https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=dd0ce092b7994283
+
+### My interests, hobbies, and activities outside of coding:
  - Music: CCM, East Asian pop (Cantonese, Mandarin, Japanese, Korean), alternative rock, pop punk/emo, classical, jazz, lo-fi, soundtracks, some [hip-hop, RnB]
  - Anime: Naruto, Kimi no Na Wa, Horimiya, Nichijou, Ouran
  - Videogames: Sonic, Fire Emblem, other Nintendo or Sega properties
