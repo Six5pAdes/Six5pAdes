@@ -4,11 +4,17 @@ My name is Austin. I am a full-stack developer currently based in California. <b
 With a background in music worth fifteen years; an undergraduate degree in audio engineering earned in four and a half years; and a year and seven months of work experience as a barista, I understand the importance of achieving perfection as much as possible and paying attention to detail. <br/>
 With all these agencies at my bestowal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
 
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=Six5pAdes&layout=compact&theme=transparent&fire=EB5454" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six5pAdes&layout=compact&theme=transparent" alt="Top Languages"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Six5pAdes&layout=compact&theme=transparent" alt="Personal Stats"/>
+## Contact Me
+<div>
+  <a href="mailto:austinhall6smusic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/austinhall-6spades/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://six5pades.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+  </a>
 </div>
 
 ## I know how to work with:
@@ -33,19 +39,13 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="PyTest" alt="PyTest" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-<div>
-
-## Contact Me
-<div>
-  <a href="mailto:austinhall6smusic@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/austinhall-6spades/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://six5pades.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
-  </a>
+<div>    
+  
+<div id="stats">
+  <h2>Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=Six5pAdes&layout=compact&theme=transparent&fire=EB5454" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six5pAdes&layout=compact&theme=transparent" alt="Top Languages"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Six5pAdes&layout=compact&theme=transparent" alt="Personal Stats"/>
 </div>
 
 ## Extra About-Mes
