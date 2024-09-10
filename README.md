@@ -69,9 +69,9 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
 * https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=dd0ce092b7994283
 
 ### My interests, hobbies, and activities outside of coding:
- - Music: CCM, East Asian pop (Cantonese, Mandarin, Japanese, Korean), alternative rock, pop punk/emo, classical, jazz, lo-fi, soundtracks, some [hip-hop, RnB]
+ - Music: Contemporary Christian, East Asian pop (Cantonese, Mandarin, Japanese, Korean), alternative rock, pop punk, emo, classical, jazz, lo-fi, soundtracks, some hip-hop, some R&B
  - Anime: Naruto, Kimi no Na Wa, Horimiya, Nichijou, Ouran
- - Videogames: Sonic, Fire Emblem, other Nintendo or Sega properties
+ - Videogames: Sonic, Fire Emblem, Animal Crossing, other Nintendo or Sega properties, puzzle, mysteries, racing, party
  - Resting at home
  - Hanging out with family or friends
 
