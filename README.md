@@ -29,9 +29,10 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-line.svg" title="NodeMon" alt="NodeMon" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="50" height="50"/>&nbsp;<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="JSON" alt="JSON" width="50" height="50"/>&nbsp;
@@ -54,7 +55,8 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
 ### I am learning how to work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+
 
 <div id="stats">
   <h2>Stats</h2>
