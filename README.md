@@ -1,4 +1,4 @@
-# 👋🏼 Hi there 👋🏼
+# Hello there!
 
 My name is Austin. I am a full-stack developer currently based in Southern California. <br/>
 With a background in music worth fifteen years; an undergraduate degree in audio engineering earned in four and a half years; and a year and seven months of work experience as a barista, I understand the importance of achieving perfection as much as possible and paying attention to detail. <br/>
