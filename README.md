@@ -60,13 +60,6 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="C++" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
 
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=Six5pAdes&layout=compact&theme=transparent&fire=EB5454" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six5pAdes&layout=compact&theme=transparent" alt="Top Languages"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Six5pAdes&layout=compact&theme=transparent" alt="Personal Stats"/>
-</div>
-
 ## Extra About-Mes
 ### My favorite musical companion playlists while coding:
 * https://downloads.khinsider.com/playlist/14442wyig<br/>
