@@ -52,9 +52,9 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
 
 ## Current Endeavors
 ### I am working on:
-* my first App Academy project, an AirBnB site clone [https://github.com/Six5pAdes/Sonic-Pictcations-AirBnb-API-project]
-* my final capstone App Academy project, a clone of e-commerce sites [https://github.com/Six5pAdes/Poppins-Shoppings]
-* a clone of Meetup (which was my original plan for my first aA project before switching to AirBnB) [https://github.com/Six5pAdes/SonicSphere]
+* my first App Academy project, an AirBnB site clone called [Sonic Pictcations](https://github.com/Six5pAdes/Sonic-Pictcations-AirBnb-API-project)
+* my final capstone App Academy project, a clone of e-commerce sites like Amazon and Etsy called [Poppins Shoppings](https://github.com/Six5pAdes/Poppins-Shoppings)
+* a clone of Meetup (which was my original plan for my first aA project before switching to AirBnB) called [Sonic Sphere](https://github.com/Six5pAdes/Poppins-Shoppings)
 
 ### I am learning how to work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
