@@ -2,16 +2,18 @@
 
 My name is Austin. I am a full-stack developer currently based in Southern California. <br/>
 With a background in music worth fifteen years; an undergraduate degree in audio engineering earned in four and a half years; and a year and seven months of work experience as a barista, I understand the importance of achieving perfection as much as possible and paying attention to detail. <br/>
-With all these agencies at my bestowal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
+With all of these agencies at my bestowal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
 
 ## Contact Me
 <div>
   <a href="mailto:austinhall6smusic@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/austinhall-6spades/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <br/>  
   <a href="https://six5pades.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
   </a>
@@ -69,7 +71,7 @@ With all these agencies at my bestowal and a pertinent enjoyment for solving puz
 
 ### My interests, hobbies, and activities outside of coding:
  - Music: Contemporary Christian, East Asian pop (Cantonese, Mandarin, Japanese, Korean), alternative rock, pop punk, emo, classical, jazz, lo-fi, soundtracks, some hip-hop, some R&B
- - Anime: Naruto, Kimi no Na Wa, Horimiya, Nichijou, Ouran
+ - Anime: Naruto, Kimi no Na wa, Horimiya, Nichijou, Ouran
  - Videogames: Sonic, Fire Emblem, Animal Crossing, other Nintendo or Sega properties, puzzle, mysteries, racing, party
  - Resting at home
  - Hanging out with family or friends
