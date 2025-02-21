@@ -63,7 +63,8 @@ With all of these agencies at my bestowal and a pertinent enjoyment for solving 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="C++" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
+          
 ## Extra About-Mes
 ### My favorite musical companion playlists while coding:
 * [many of my favorite videogame soundtracks](https://downloads.khinsider.com/playlist/14442wyig)<br/>
