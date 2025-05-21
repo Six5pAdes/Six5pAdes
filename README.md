@@ -56,9 +56,10 @@ With all of these agencies at my bestowal and a pertinent enjoyment for solving 
 
 ## Current Endeavors
 ### I am working on:
-* my first App Academy project, an AirBnB site clone called [Sonic Pictcations](https://github.com/Six5pAdes/Sonic-Pictcations-AirBnb-API-project)
-* my final capstone App Academy project, a clone of e-commerce sites like Amazon and Etsy called [Poppins Shoppings](https://github.com/Six5pAdes/Poppins-Shoppings)
-* a clone of Meetup (which was my original plan for my first aA project before switching to AirBnB) called [Sonic Sphere](https://github.com/Six5pAdes/SonicSphere)
+* My first App Academy project, an Airbnb site clone called [Sonic Pictcations](https://github.com/Six5pAdes/Sonic-Pictcations-AirBnb-API-project)
+* My final capstone App Academy project, a clone of e-commerce sites like Amazon and Etsy called [Poppins Shoppings](https://github.com/Six5pAdes/Poppins-Shoppings)
+* A clone of Meetup (which was my original plan for my first a/A project before switching to Airbnb) called [Sonic Sphere](https://github.com/Six5pAdes/SonicSphere)
+* An original web application designed for users to search for churches based on their preferences and what the churches have to offer, called [ConGreG8](https://github.com/Six5pAdes/ConGreG8)
 
 ### I am learning how to work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
