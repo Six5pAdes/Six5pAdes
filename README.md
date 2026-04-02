@@ -2,7 +2,7 @@
 
 My name is Austin. I am a full-stack developer currently based in Southern California. <br/>
 With a background in music worth fifteen years; an undergraduate degree in audio engineering earned in four and a half years; and a year and seven months of work experience as a barista, I understand the importance of achieving perfection as much as possible and paying attention to detail. <br/>
-With all of these agencies at my bestowal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
+With all of these agencies at my disposal and a pertinent enjoyment for solving puzzles, I am ready and committed to taking on the world of software engineering one block of code at a time.
 
 ## Contact Me
 <div>
@@ -58,7 +58,7 @@ With all of these agencies at my bestowal and a pertinent enjoyment for solving 
 ### I am working on:
 * My first App Academy project, an Airbnb site clone called [Sonic Pictcations](https://github.com/Six5pAdes/Sonic-Pictcations-AirBnb-API-project)
 * My final capstone App Academy project, a clone of e-commerce sites like Amazon and Etsy called [Poppins Shoppings](https://github.com/Six5pAdes/Poppins-Shoppings)
-* A clone of Meetup (which was my original plan for my first a/A project before switching to Airbnb) called [Sonic Sphere](https://github.com/Six5pAdes/SonicSphere)
+* A clone of Meetup (which was my original plan for my first a/A project before switching to Airbnb) called [Sonic Sphere](https://github.com/Six5pAdes/SonicSphere-Meetup-API-project)
 * An original web application designed for users to search for churches based on their preferences and what the churches have to offer, called [ConGreG8](https://github.com/Six5pAdes/ConGreG8)
 
 ### I am learning how to work with:
